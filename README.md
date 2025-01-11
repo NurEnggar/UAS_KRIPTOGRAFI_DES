@@ -1,4 +1,6 @@
-# UAS_KRIPTOGRAFI_DES
+UAS-Kriptografi
 Nama : Nur Enggar
+
 NIM : 312210499
-Kelas : II.22.C.4
+
+Kelas : TI.22.C4
